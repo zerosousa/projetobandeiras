@@ -11,7 +11,7 @@ public class ProgramaBandeiras {
 				"Canadá",   "bandeiras/Canada.png", 
 				"China", 	"bandeiras/China.png",
 				"Cuba", 	"bandeiras/Cuba.png",
-				"Grécia", 	"bandeiras/Grecia.png",
+				"Gr�cia", 	"bandeiras/Grecia.png",
 				"Irlanda", 	"bandeiras/Irlanda.png",
 				"Jamaica", 	"bandeiras/Jamaica.png",
 				"Letônia", 	"bandeiras/Letonia.png",
